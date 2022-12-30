@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/ducthinh17/Space-Invaders">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=538CF7&width=550&lines=Wellcome+to+Space-Invaders)](https://git.io/typing-svg" /> </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=538CF7&width=550&lines=Wellcome+to+Zoe-Finding-Sammy)](https://git.io/typing-svg" /> </a>
 </p>
 
 <p align="center">
@@ -14,15 +14,14 @@
 
 <p align="center" > <img align="center" alt = "gif" src = "https://github.com/ducthinh17/Space-Invaders/blob/master/demo_2.gif" width="640" height="480" /></p>
 
-# Space-Invaders
+# Zoe- Finding-Sammy
 <p>
 <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>  
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
-"Space-Invaders" is a familiar name among game lovers in 1987, with this improved version we have greatly improved the experience for players and also not forgetting to be user-friendly.
+"Zoe Finding Sammy" is a
 
 Story:
 When people ended the war and lived together in peace, an evil force came to threaten the earth. They are monsters from outer space with the desire to invade and possess the earth.
