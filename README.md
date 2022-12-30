@@ -30,7 +30,7 @@ Story:
 After running the game, the interface of the game will be set up. The opening is "Menu" including "Help" & "Start". "Help" will help players understand how the game works, after that player can begin the impossible mission by clicking "Start". 
 
 ## Rules:
-The army will be arranged into a rectangle, and each turn the horizontal line will start to drop bullets. Players must dodge bullets and destroy enemy troops to win, otherwise they will fail to save the earth.
+
 
 ### Controls:
 | Action | Key      |
