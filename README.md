@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/ducthinh17/Space-Invaders">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=538CF7&width=550&lines=Wellcome+to+Zoe-Finding-Sammy)](https://git.io/typing-svg" /> </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=538CF7&width=550&lines=Wellcome+to+Where's+Sammy)](https://git.io/typing-svg" /> </a>
 </p>
 
 <p align="center">
