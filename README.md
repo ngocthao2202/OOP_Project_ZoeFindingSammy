@@ -8,7 +8,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/ducthinh17/Space-Invaders">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=1000&color=538CF7&multiline=true&width=430&lines=Group's+name:Where's+Sammy )](https://git.io/typing-svg" /> </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=1000&color=538CF7&multiline=true&width=430&lines=Group's+name:Find+Sammy )](https://git.io/typing-svg" /> </a>
 </p>
 
 <h3 align="center">This will be an stunning game if your childhood is rushed back! ✨✨</h3>
@@ -23,14 +23,19 @@
 
 
 Story:
+Lets me tell you a story.  
+
+Here is a story from the very long long times ago. Zoe and Sammy are the best buddies, Zoe is a white girl with the blonde hair and her favorite color is GREEN. Andddd WHAT ABOUT SAMMY ?  
+
+He is a gray cat who lives with ZOE since she was born 
+
+BUT one day, SAMMY disappeared for no reason. Zoe is every sad, panic and empty, therefore She begins the journey to find her cat( SAMMY). However, the mission is not that much easy for the little girl, when she has to find keys, solve puzzles and unlock doors to get to the position of her cat. That’s all. 
 
 
 ## How to play ?
-
-After running the game, the interface of the game will be set up. The opening is "Menu" including "Help" & "Start". "Help" will help players understand how the game works, after that player can begin the impossible mission by clicking "Start". 
-
+Zoe Finding Sammy's keys and doors will be crafted with difficulty, and players will use the W,A,S,D and Enter keys on their keyboards to control them in the appropriate locations on the face. soil. When opening all the doors and finding the cat (Sammy), the game is over.
 ## Rules:
-
+Zoe Finding Sammy's keys and doors will be crafted with difficulty, and players will use the W,A,S,D and Enter keys on their keyboards to control them in the appropriate locations on the face. soil. When opening all the doors and finding the cat (Sammy), the game is over.
 
 ### Controls:
 | Action | Key      |
@@ -40,7 +45,8 @@ After running the game, the interface of the game will be set up. The opening is
 | Move Up ⇡  | W     |
 | Move Down ⇣  | S      |
 | Answer | Enter |
-
+| Pause  | P     |
+| Skip   | SPACE |
 
 
 
@@ -60,16 +66,6 @@ After running the game, the interface of the game will be set up. The opening is
 - 📫 How to cantact me **tuhaovn12a326@gmail.com**
 
 - 📄 Know about old experiences 
-
-- ⚡ Fun fact **Humor and dynamism are always within us**
-
-<h3 align="left">Connect with us:</h3>
-<p align="left">
-<a href="https://twitter.com/sapceinvaders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sapceinvaders" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sapceinvaders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sapceinvaders" height="30" width="40" /></a>
-<a href="https://instagram.com/sapceinvaders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sapceinvaders" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sapceinvaders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sapceinvaders" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
