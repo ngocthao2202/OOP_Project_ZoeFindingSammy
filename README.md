@@ -61,7 +61,7 @@ Zoe Finding Sammy's keys and doors will be crafted with difficulty, and players 
 
 - 🗣 All of my projects are available at [https://github.com/ngocthao2202/OOP_Project_ZoeFindingSammy)
 
-- 💬 Ask me about **Javascript, Java swing, JFrame,...**
+- 💬 Ask me about **Java, JFrame,...**
 
 - 📫 How to cantact me **tuhaovn12a326@gmail.com**
 
