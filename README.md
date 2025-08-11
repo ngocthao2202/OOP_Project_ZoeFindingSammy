@@ -1,15 +1,4 @@
 # OOP_Project_ZoeFindingSammy
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <a href="https://github.com/ducthinh17/Space-Invaders">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=538CF7&width=550&lines=Wellcome+to+Where's+Sammy )](https://git.io/typing-svg" /> </a>
-</p>
-
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <a href="https://github.com/ducthinh17/Space-Invaders">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=1000&color=538CF7&multiline=true&width=430&lines=Group's+name:Find+Sammy )](https://git.io/typing-svg" /> </a>
-</p>
 
 <h3 align="center">This will be an stunning game if your childhood is rushed back! ✨✨</h3>
 
